@@ -3,5 +3,5 @@ Plantigua is an educational project. The main purpose of this project is to crea
 
 # UX/UI
 The following tools are used in scope of this project:
-https://www.figma.com
-https://www.invisionapp.com
+- https://www.figma.com
+- https://www.invisionapp.com
