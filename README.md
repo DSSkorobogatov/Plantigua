@@ -5,3 +5,4 @@ Plantigua is an educational project. The main purpose of this project is to crea
 The following tools are used in scope of this project:
 - https://www.figma.com
 - https://www.invisionapp.com
+- Adobe XD
